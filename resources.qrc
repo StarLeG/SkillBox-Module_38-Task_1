@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>red.png</file>
+        <file>beep.mp3</file>
+    </qresource>
+</RCC>
